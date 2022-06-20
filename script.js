@@ -43,3 +43,5 @@ function contador() {
 }
 
 textArea.addEventListener('keyup', contador);
+
+// substituindo o formulário pelas informações
