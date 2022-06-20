@@ -29,3 +29,17 @@ function verificarEstado() {
 }
 
 checkbox.addEventListener('click', verificarEstado);
+
+// criando contador de caracteres
+const textArea = document.getElementById('textarea');
+const counter = document.getElementById('counter');
+
+counter.innerText = 500;
+
+function contador() {
+  const numCaracter = textArea.value.length;
+  const result = 500 - numCaracter;
+  counter.innerText = result;
+}
+
+textArea.addEventListener('keyup', contador);
