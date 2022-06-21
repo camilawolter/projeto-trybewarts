@@ -113,6 +113,24 @@ h2 {
   font-size: 15px;
 }
 
+.box-rate {
+  margin: 5px;
+}
+
+#textarea {
+  border: solid 1px rgb(81, 0, 128);
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  height: 200px;
+  margin: 15px 0 0;
+  resize: none;
+  width: 100%;
+}
+
+.textarea {
+  align-self: start;
+}
+
 #submit-btn {
   background-color: rgb(79, 20, 128);
   color: white;
