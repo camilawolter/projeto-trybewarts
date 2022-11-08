@@ -13,4 +13,4 @@ Habilidades desenvolvidas
 - Estruturar corretamente uma página HTML;
 - Estruturação do CSS;
 
-Para a visualização do formulário em funcionamento só acessar: https://projeto-trybewarts-dun.vercel.app/p
+Para a visualização do formulário em funcionamento só acessar: https://projeto-trybewarts-dun.vercel.app/
