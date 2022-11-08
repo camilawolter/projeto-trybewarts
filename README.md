@@ -1,10 +1,16 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Project TrybeWarts
+
+Projeto entregue durante o curso de desenvolvimento Web ministrado pela Trybe.
+
+Descrição:
+
+O projeto teve como objetivo desenvolver uma aplicação de um formulário.
+
+Habilidades desenvolvidas
+
+- Utilizar CSS Flexbox;
+- Organização do código;
+- Estruturar corretamente uma página HTML;
+- Estruturação do CSS;
+
+Para a visualização do formulário em funcionamento só acessar: https://projeto-trybewarts-dun.vercel.app/p
